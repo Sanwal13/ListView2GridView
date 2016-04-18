@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView2GridView</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="change_view">Change View</string>
+    <string name="quit">Exit</string>
+</resources>
